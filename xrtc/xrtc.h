@@ -1,7 +1,8 @@
-﻿#ifndef XRTCSDK_XRTC_XRTC_H_
-#define XRTCSDK_XRTC_XRTC_H_
+﻿#ifndef _XRTCSDK_XRTC_XRTC_H_
+#define _XRTCSDK_XRTC_XRTC_H_
+
 namespace xrtc
 {
 
 }
-#endif //XRTCSDK_XRTC_XRTC_H_
+#endif

@@ -1,6 +1,10 @@
-﻿#include "xrtc.h"
+﻿#include "xrtc/xrtc.h"
+#include <rtc_base/logging.h>
 
 namespace xrtc
 {
-
-}//namespace xrtc
+	int test() {
+		rtc::LogMessage::ConfigureLogging("thread");
+		return 0;
+	}
+}
