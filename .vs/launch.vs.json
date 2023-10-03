@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "windemo.exe (Windows\\bin\\windemo.exe)",
+      "name": "windemo.exe (Windows\\bin\\windemo.exe)"
+    }
+  ]
+}

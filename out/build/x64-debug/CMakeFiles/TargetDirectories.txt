@@ -1,0 +1,10 @@
+D:/personal/studycode/xrtcsdk/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/personal/studycode/xrtcsdk/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/personal/studycode/xrtcsdk/out/build/x64-debug/xrtc/CMakeFiles/xrtc.dir
+D:/personal/studycode/xrtcsdk/out/build/x64-debug/xrtc/CMakeFiles/edit_cache.dir
+D:/personal/studycode/xrtcsdk/out/build/x64-debug/xrtc/CMakeFiles/rebuild_cache.dir
+D:/personal/studycode/xrtcsdk/out/build/x64-debug/examples/CMakeFiles/edit_cache.dir
+D:/personal/studycode/xrtcsdk/out/build/x64-debug/examples/CMakeFiles/rebuild_cache.dir
+D:/personal/studycode/xrtcsdk/out/build/x64-debug/examples/windows/CMakeFiles/windemo.dir
+D:/personal/studycode/xrtcsdk/out/build/x64-debug/examples/windows/CMakeFiles/edit_cache.dir
+D:/personal/studycode/xrtcsdk/out/build/x64-debug/examples/windows/CMakeFiles/rebuild_cache.dir
